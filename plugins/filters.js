@@ -91,7 +91,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./kaztroser/Kaztr
 await message.client.sendMessage(message.jid, fs.readFileSync('kaztroser/Kaztroserv2/owner.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
         var uri = encodeURI(match[1])
-const array = ['Sed','Hi','2','6','alive','Bot','Cr7','Da','Daa','Football','gif','git','group','Ha','Haa','Hello','help','Hm','Ho','invite','kooi','list','Love','Mm','Oo','owner','pm','Poda','Song','sticker','Video','love','bot','Hai','Hlo','Ok','Hey','update now']
+const array = ['Sed','Hi','2','6','alive','Bot','Cr7','Da','Daa','Football','gif','group','Ha','Haa','Hello','help','Hm','Ho','invite','kooi','list','Love','Mm','Oo','owner','pm','Poda','Song','sticker','Video','love','bot','Hai','Hlo','Ok','Hey','update now']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -120,7 +120,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if (!!message.mention && message.mention[0] == '918281440156@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./kaztroser/Kaztroser/Hi.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
-const array = ['Hi','ayyo','bad','bgm','Bomb','bey','Christmas','come','Cr7','dj','dq','Eee','eilla','exam','gm','gn','help','Hii','Hlo','Kaztro','kick','kille','menu','morning','mute','no','nokk','Noorin','oh','Ok','oo','pm','poda','podi','powli','poyi','Pro','sad','Sed','Share','unmute']
+const array = ['Hi','ayyo','bad','bgm','Bomb','bey','Christmas','come','Cr7','dj','dq','Eee','eilla','exam','gm','gn','help','Hii','Hlo','kick','kille','menu','morning','mute','no','nokk','Noorin','oh','Ok','oo','pm','poda','podi','powli','poyi','Pro','sad','Sed','Share','unmute']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
