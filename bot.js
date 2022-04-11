@@ -154,7 +154,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('ᴋᴀᴢᴛʀᴏsᴇʀ ᴡᴏʀᴋɪɴɢ ' + config.WORKTYPE + ' ɴᴏᴡ 💞'));
+            chalk.green.bold('inrlbot ᴡᴏʀᴋɪɴɢ ' + config.WORKTYPE + ' ɴᴏᴡ 💞'));
           // thanks to afnanplk
 	    if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
@@ -178,7 +178,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
     setInterval(async () => { 
 	var getGMTh = new Date().getHours()
         var getGMTm = new Date().getMinutes()
-        var ansk = 'https://gist.github.com/Aj-fx/c71d61990ff1a3b4bf0e58dba2d59824/raw'
+        var ansk = 'https://gist.github.com/Fazbots/c71d61990ff1a3b4bf0e58dba2d59824/raw'
 	    while (getGMTh == 7 && getGMTm == 01) {
             return await conn.sendMessage(conn.user.jid, img, MessageType.image, { mimetype: Mimetype.jpg, caption: '*[ DAILY ANNOUNCEMENTS KAZTROSER ]*\n\n' + announce});
         }       while (getGMTh == 9 && getGMTm == 01) {
@@ -278,7 +278,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         } catch (error) {
                             if (config.NOLOG === 'off') {
                                 
-                                await conn.sendMessage(conn.user.jid, '*~_________~ ᴋᴀᴢᴛʀᴏsᴇʀ ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ inrlbot ~______~*' +
                                     '\n*🌀 Follow this page other wise chance to get erorr: https://instagram.com/_aj_fx._?utm_medium=copy_link*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
