@@ -27,7 +27,7 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
     
 ╭─➤ 𝗜𝗡𝗙𝗢 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 »
 │❖ *ᴀᴜᴛʜᴏʀ* : ` + Config.OWNER + `
-│❖ *ᴋᴇʀɴᴇʟ* : ꪶ͢ᴀᴊ ғxꫂ⁩
+│❖ *ᴋᴇʀɴᴇʟ* : ꪶ͢inrl⁩
 │❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* : ` + Config.OA_NAME + `
 │❖ *ᴡʜᴀᴛꜱᴀᴘᴘ* : ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ...
 ╰────────────────❋ཻུ۪۪➹
