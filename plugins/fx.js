@@ -1,4 +1,4 @@
-//PLUGIN BY AJFX COPY WITH CREDIT
+//PLUGIN BY INRL COPY WITH CREDIT
 
 const Asena = require('../events');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
