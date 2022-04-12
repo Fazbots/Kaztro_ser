@@ -1,14 +1,14 @@
 {
-  "name": "Kaztro_ser",
+  "name": "inrlbot",
   "version": "7.3.6",
-  "description": "Kaztroser  is a Modified Version of WhatsAsena, Made By Aj-fx.",
+  "description": "inrl  is a Modified Version of WhatsAsena, Made By fasweeh.",
   "main": "./Kaztro_ser/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aj-fx/kaztro_ser.git"
+    "url": "git+https://github.com/Fazbots/inrl.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "Aj-fx",
-  "developer": "@Aj-fx",
+  "author": "inrl",
+  "developer": "@inrl",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Aj-fx/Kaztro_ser/issues"
+    "url": "https://github.com/Fazbots/inrl/issues"
   },
-  "homepage": "https://github.com/Aj-fx/Kaztro_ser#readme",
+  "homepage": "https://github.com/inrl/inrl#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
