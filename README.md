@@ -11,7 +11,7 @@
 
 ## 4 <a href="https://github.com/faz-bots/inrl /fork" target="_blank"><img src="https://img.shields.io/badge/Fork-Kaztroser...-%808080.svg?&style=flat-square&logo=GitHub &logoColor=white" alt="GitHub"></a>
 
-## 5 https://heroku.com/deploy?template=https://github.com/Fazbots/kastrosir 
+## 5 https://heroku.com/deploy?template=https://github.com/Aj-fx/kastrosir 
 copy this url and change Aj-fx with your github username and go<br>
 
   <p align="center">
