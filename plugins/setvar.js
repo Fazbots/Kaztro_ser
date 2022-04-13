@@ -18,7 +18,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━💙SETVAR💙━━⛦
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 𝗸𝗮𝘇𝘁𝗿𝗼𝘀𝗲𝗿 𝐛𝐨𝐭.
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 inrl 𝐛𝐨𝐭.
   
 *ẉa.me/➳Setvar*
 ■□■□■□■□■□■□■□■□■□■□
@@ -90,15 +90,15 @@ All setvars are
  To get a song when your number is mentioned
  .setvar TAG_REPPLY:your jid 
 
-     *happy using Kaztroser bot 💙*
+     *happy using inrl bot 💙*
 
-*Editing And Devaloper : Aj-fx💕*
+*Editing And Devaloper : fasweeh💕*
 
-*Erorr Fixing : Farhan -Julie Mwol 💕*
+*Erorr Fixing : Fasweeh -faz💕*
 
-*Supporting : Afnan -Pinky 💕*
+*Supporting : Azher-jaman💕*
 
-*User Support : Ajayan-007 💕*
+*User Support : fasweeh80 💕*
 
      💙═════💙═════💙
 `}) 
